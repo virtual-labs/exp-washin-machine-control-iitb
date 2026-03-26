@@ -1,0 +1,1 @@
+To construct logic circuit of washing machine control using a generalized simulator and verify its output.

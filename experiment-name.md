@@ -1,0 +1,1 @@
+## Washing machine control using basic AND & NOT gates
