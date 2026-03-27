@@ -1,0 +1,61 @@
+
+  [
+    {
+      "question": "What inputs are required so that the combinational logic circuit in a washing machine triggers the alarm at output Y? <br> <img src = 'images/p1.png'> ",
+      "qid": 1,
+      
+      
+        "option_a": " A=B=C=D=1",
+        "option_b": "A=D=1,B=C=0",
+        "option_c": "A=C=0,B=D=1",
+        "option_d": "A=B=0,C=D=1",
+      
+      "correct_option": "d"
+    }, {
+      "question": "The following AND-NOT circuit is used as a part of a drive spindle motor. The circuit is designed such that the motor turns ON when Drive= 1. Determine the input conditions necessary to turn ON the motor. <br> <img src = 'images/p2.png'>  ",
+      "qid": 2,
+      
+      
+        "option_a": "A1=A2=A3=A4=1",
+        "option_b": "A1=A2=A3=A4=0",
+        "option_c": "A1=A2= 0; A3=A4=1",
+        "option_d": "Both B and C",
+      
+      "correct_option": "d"
+    }, {
+      "question": "Which of the following statements best describes the working of the following circuit? <br> <img src = 'images/p3.png'>  ",
+      
+      "qid": 3,
+      
+      
+        "option_a": "A HIGH output occurs when all three inputs are LOW.",
+        "option_b": "A HIGH output occurs when even a single input is LOW.",
+        "option_c": "A HIGH output occurs when all three inputs are HIGH.",
+        "option_d": "Options A and B are TRUE.",
+    
+      "correct_option": "d"
+    }, {
+      "question": "Which of the boolean expression is true for the washing machine circuit shown below? <br> <img src = 'images/p4.png'>  ",
+      
+     "qid": 4,
+      
+        "option_a": "Output = D.L.T",
+        "option_b": "Output = D.L.T'",
+        "option_c": "Output = D.L'",
+        "option_d": "Output = D'.L",
+      
+      "correct_option": "c"
+    }, {
+      "question": "State the output that is necessary to activate the Heater.",
+      "qid": 5,
+      
+        "option_a": "Output = D.L.T.",
+        "option_b": "Output = D.L.T'",
+        "option_c": "Output = D.L'.",
+        "option_d": "Output = D'.L",
+      
+      "correct_option": "b"
+    }
+  
+
+  ]
